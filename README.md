@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel aka @MDBernoulli
+- 👋 Hi, I’m Emmanuel IKPATT
 - 👀 I’m interested in Technological solutions related to Agric Value Chain & Business Improvement that addresses global Food challenges using Data Analysis.
 - 🌱 I’m currently learning Data & Business Analysis, AgricBusiness Value Chain Improvement & Process Simplification for effective Decision Making.
 - 💞️ I’m looking to collaborate on AgricBusiness Value Chain.
